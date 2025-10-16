@@ -1,0 +1,12 @@
+>sample1
+tGCAatttaccgttaaagcctaaccggt
+>sample2
+agcttGGGaaatttccggggtaac
+>sample3
+gctaggtttacttCCCCAAAAnnaggggagagcccagataaatggagtctgtgcgtccaca
+gaattcgcacca
+AATTTTACCTCACCCAT
+agagcccagaatttactcCCC
+>sample4
+gcggatttacttaggggagagcccagGGataaatggagtctgtgcgtccaca
+gaattcgcacca
